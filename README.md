@@ -1,4 +1,4 @@
-# Emphysema Classification
+# Hybrid CNN-MAMBA for Emphysema Classification
 
 ![Screenshot 2025-03-17 at 09 57 38](https://github.com/user-attachments/assets/f7d29f21-4999-46aa-b4ee-a3c59ce9ab53)
 
